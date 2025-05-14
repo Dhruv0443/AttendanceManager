@@ -48,30 +48,6 @@ Set up the MySQL database using the provided schema.
 
 Run the project and start scanning QR codes.
 
-📁 Camera-Attendance-QR
- ├── 📁 src
- │   ├── 📁 dao
- │   │   ├── 📜 ConnectionProvider.java
- │   │   ├── 📜 tables.java
- │   ├── 📁 forms
- │   │   ├── 📜 Dashboard.java
- │   │   ├── 📜 UserRegistration.java
- │   │   ├── 📜 ViewUser.java
- │   │   ├── 📜 UpdateUser.java
- │   │   ├── 📜 DeleteUser.java
- │   │   ├── 📜 GenerateQR.java
- │   │   ├── 📜 ViewQR.java
- │   │   ├── 📜 MarkAttendance.java
- │   │   ├── 📜 ViewAttendance.java
- │   ├── 📁 images
- ├── 📁 qrCodes
- ├── 📁 utility
- │   ├── 📁 images
- │   ├── 📜 Utility.java
- ├── 📜 README.md
- ├── 📜 LICENSE
- ├── 📜 .gitignore
-
 
 ✨** How It Works**
 
