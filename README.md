@@ -51,7 +51,7 @@ Run the project and start scanning QR codes.
 
 📁 Camera-Attendance-QR
 
- ├── 📁 src
+ ├── 📁 src \n
  │   ├── 📁 dao
  │   │   ├── 📜 ConnectionProvider.java
  │   │   ├── 📜 tables.java
