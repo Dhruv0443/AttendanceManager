@@ -40,7 +40,7 @@ Steps to Set Up
 Clone the repository:
 
 bash
-git clone https://github.com/Dhruv0443/AttendaceManager.git
+git clone https://github.com/Dhruv0443/AttendanceManager.git
 
 Open the project in Apache NetBeans.
 
