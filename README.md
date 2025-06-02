@@ -1,8 +1,8 @@
-**📌 Overview**
+## 📌 Overview
 
 Camera-Based Attendance Management Using QR is an efficient and contactless attendance system that leverages QR codes and camera-based scanning to record attendance. The system automates attendance tracking, ensuring accuracy and ease of use in various environments such as schools, offices, and events.
 
-**⚡ Features**
+## ⚡ Features
 
 - QR code-based identification for students/employees.
 
@@ -14,7 +14,7 @@ Camera-Based Attendance Management Using QR is an efficient and contactless atte
 
 - Real-time logging and reporting.
 
-**🏗 Technologies Used**
+## 🏗 Technologies Used
 
 - Apache NetBeans (Integrated Development Environment)
 
@@ -24,16 +24,16 @@ Camera-Based Attendance Management Using QR is an efficient and contactless atte
 
 - Swing (GUI development)
 
-**🚀 Installation & Setup**
+## 🚀 Installation & Setup
 
-Prerequisites
-Ensure you have the following installed:
-
-- Apache NetBeans IDE
-
-- Java Development Kit (JDK)
-
-- MySQL Database Server
+  Prerequisites
+  Ensure you have the following installed:
+  
+  - Apache NetBeans IDE
+  
+  - Java Development Kit (JDK)
+  
+  - MySQL Database Server
 
 
 ### Steps to Set Up
@@ -49,7 +49,7 @@ Ensure you have the following installed:
 - Run the project and start scanning QR codes.
 
 
-**✨ How It Works**
+## ✨ How It Works
 
 - A unique QR code is generated for each individual.
 
