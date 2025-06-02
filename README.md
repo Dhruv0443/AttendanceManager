@@ -4,57 +4,57 @@ Camera-Based Attendance Management Using QR is an efficient and contactless atte
 
 **⚡ Features**
 
--QR code-based identification for students/employees.
+- QR code-based identification for students/employees.
 
--Camera integration for QR code scanning.
+- Camera integration for QR code scanning.
 
--Secure database storage for attendance records.
+- Secure database storage for attendance records.
 
--User-friendly interface built in Apache NetBeans.
+- User-friendly interface built in Apache NetBeans.
 
 - Real-time logging and reporting.
 
 **🏗 Technologies Used**
 
-Apache NetBeans (Integrated Development Environment)
+- Apache NetBeans (Integrated Development Environment)
 
-Java (Core programming language)
+- Java (Core programming language)
 
-MySQL (Database management)
+- MySQL (Database management)
 
-Swing (GUI development)
+- Swing (GUI development)
 
 **🚀 Installation & Setup**
 
 Prerequisites
 Ensure you have the following installed:
 
-Apache NetBeans IDE
+- Apache NetBeans IDE
 
-Java Development Kit (JDK)
+- Java Development Kit (JDK)
 
-MySQL Database Server
+- MySQL Database Server
 
 
 Steps to Set Up
-Clone the repository:
+- Clone the repository:
 
 bash
 git clone https://github.com/Dhruv0443/AttendanceManager.git
 
-Open the project in Apache NetBeans.
+- Open the project in Apache NetBeans.
 
-Set up the MySQL database using the provided schema.
+- Set up the MySQL database using the provided schema.
 
-Run the project and start scanning QR codes.
+- Run the project and start scanning QR codes.
 
 
 ✨** How It Works**
 
-A unique QR code is generated for each individual.
+- A unique QR code is generated for each individual.
 
-The camera scans the QR code and extracts information.
+- The camera scans the QR code and extracts information.
 
-The extracted details are checked against the database.
+- The extracted details are checked against the database.
 
-Attendance is marked and stored securely.
+- Attendance is marked and stored securely.
