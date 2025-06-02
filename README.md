@@ -1,4 +1,4 @@
-**📌 Overview** 
+**📌 Overview**
 
 Camera-Based Attendance Management Using QR is an efficient and contactless attendance system that leverages QR codes and camera-based scanning to record attendance. The system automates attendance tracking, ensuring accuracy and ease of use in various environments such as schools, offices, and events.
 
