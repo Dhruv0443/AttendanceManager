@@ -38,9 +38,10 @@ Camera-Based Attendance Management Using QR is an efficient and contactless atte
 
 ### Steps to Set Up
 - Clone the repository:
-
-  bash
+``` sh
+  # bash
   git clone https://github.com/Dhruv0443/AttendanceManager.git
+```
 
 - Open the project in Apache NetBeans.
 
