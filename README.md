@@ -36,11 +36,11 @@ Ensure you have the following installed:
 - MySQL Database Server
 
 
-Steps to Set Up
+### Steps to Set Up
 - Clone the repository:
 
-bash
-git clone https://github.com/Dhruv0443/AttendanceManager.git
+  bash
+  git clone https://github.com/Dhruv0443/AttendanceManager.git
 
 - Open the project in Apache NetBeans.
 
@@ -49,7 +49,7 @@ git clone https://github.com/Dhruv0443/AttendanceManager.git
 - Run the project and start scanning QR codes.
 
 
-✨** How It Works**
+**✨ How It Works**
 
 - A unique QR code is generated for each individual.
 
