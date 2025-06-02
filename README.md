@@ -4,15 +4,15 @@ Camera-Based Attendance Management Using QR is an efficient and contactless atte
 
 **⚡ Features**
 
-QR code-based identification for students/employees.
+-QR code-based identification for students/employees.
 
-Camera integration for QR code scanning.
+-Camera integration for QR code scanning.
 
-Secure database storage for attendance records.
+-Secure database storage for attendance records.
 
-User-friendly interface built in Apache NetBeans.
+-User-friendly interface built in Apache NetBeans.
 
-Real-time logging and reporting.
+- Real-time logging and reporting.
 
 **🏗 Technologies Used**
 
